@@ -2,9 +2,6 @@
 
 API REST para convertir números romanos a arábigos y viceversa mediante endpoints HTTP.
 
-## Descripción
-
-Este proyecto proporciona una API REST construida con Express.js que permite realizar conversiones bidireccionales entre números romanos y números arábigos. La API está diseñada para ser utilizada por aplicaciones web y móviles, con soporte CORS habilitado para solicitudes cruzadas.
 
 ## Requisitos Previos
 
